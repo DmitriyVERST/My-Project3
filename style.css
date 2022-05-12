@@ -1,0 +1,390 @@
+body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    height: 6000px;
+}
+.menu {
+    position: fixed;
+    background-color: rgb(221, 217, 217);
+    width: 100%;
+    height: 60px;
+}
+.slk-menu {
+    opacity: 0.8;
+    margin-left: 40px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+}
+.slk-menu:hover {
+    text-decoration: underline;
+}
+.slk-meni-active { 
+    padding-top: 15px;
+    margin-left: -17px;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+.gln-img {
+    opacity: 0.4;
+    width: 100%;
+    height: 800px;
+}
+.text_h1-active {
+    opacity: 0.8;
+    margin-left: 17%;
+    margin-top: -620px;
+    text-align: center;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 65px;
+    width: 900px;
+}
+.text_p-active {
+    opacity: 0.8;
+    margin-top: -20px;
+    margin-left: 20%;
+    text-align: center;
+    width: 800px;
+    font-size: 24px;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+.btn-gln-menu-active {
+    opacity: 0.8;
+    background-color: coral;
+    font-family: 'Hind Siliguri', sans-serif;
+    width: 302px;
+    height: 40px;
+    color: #fff;
+    font-size: 18px;
+    margin-left: 34%;
+    border: solid coral;
+    border-radius: 2em;
+
+}
+.text-gln-menu {
+    margin-top: 100px;
+    margin-left: 200px;
+}
+.block2 {
+    margin-left: -5px;
+}
+.img-block2 {
+    margin-top: 420px;
+    margin-left: 24%;
+}
+.text-block2-h1-active {
+    font-size: 40px;
+}
+.text-block2-p-active {
+    width: 460px;
+    font-size: 20px;
+}
+.text-block2-active {
+    margin-left: 54%;
+    margin-top: -559px;
+}
+.btn-block2-active {
+    color: #fff;
+    background-color: coral;
+    font-size: 20px;
+    width: 250px;
+    height: 40px;
+    border: solid coral;
+    border-radius: 2em;
+}
+.block3 {
+    margin-top: 150px;
+    width: 100%;
+    height: 450px;
+    background-color: rgb(248, 240, 240);
+}
+.strelka {
+    padding-top: -30px;
+    margin-left: 10px;
+}
+.img-bloc3 {
+    padding-left: 24px;
+    margin-top: 80px;
+    margin-left: 150px;
+}
+.h1-block4 {
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 50px;
+    margin-top: 100px;
+    margin-left: 680px;
+}
+.img-block4 {
+    padding-left: 300px;
+    margin-left: -35px;
+}
+.text1 {
+    color: black;
+    font-size: 25px;
+}
+.text-block4 {
+    margin-left: 280px;
+}
+.img-blik4 {
+    margin-left: 210px;
+}
+.text2 {
+    margin-top: -5px;
+    margin-left: -18px;
+    text-align: center;
+    width: 300px;
+}
+.text-min1-active {
+    font-family: 'Hind Siliguri', sans-serif;
+    margin-top: -5px;
+    margin-left: 115px;
+}
+.text-min2-active {
+    font-family: 'Hind Siliguri', sans-serif;
+    margin-left: 490px;
+    margin-top: -150px;
+}
+.textp {
+    margin-left: 20px;
+    margin-top: -5px;
+    text-align: center;
+    width: 300px;
+}
+.text-min3-active {
+    margin-top: -150px;
+    margin-left: 940px;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+.textp2 {
+    margin-top: -5px;
+    margin-left: -20px;
+    width: 300px;
+    text-align: center;
+}
+.block5 {
+    margin-top: 100px;
+    width: 100%;
+    height: 620px;
+    background-color: rgb(248, 240, 240);
+}
+.img-block5 {
+    margin-top: 60px;
+    margin-left: 200px;
+}
+.text-block5 {
+    margin-left: 1100px;
+    margin-top: -340px;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+.textp-bl5 {
+    margin-top: 50px;
+    width: 370px;
+}
+.texth1-bl5 {
+    margin-top: -25px;
+}
+.btn-block5 {
+    margin-top: 20px;
+    color: #fff;
+    background-color: coral;
+    font-size: 20px;
+    width: 250px;
+    height: 40px;
+    border: solid coral;
+    border-radius: 2em;
+}
+.text-block6 {
+    margin-left: 230px;
+}
+.block6 {
+    position: relative;
+    margin-top: -27px;
+    font-family: 'Hind Siliguri', sans-serif;
+    background-color: rgb(241, 238, 238);
+    width: 100%;
+    height: 1500px;
+}
+.gln-block6 {
+    margin-left: 280px;
+}
+.h1textblock {
+    margin-left: 23%;
+    padding-top: 90px;
+    font-size: 40px;
+}
+.h2textblock6 {
+    margin-left: 19%;
+    margin-top: -10px;
+}
+.kart1 {
+    border-radius: 2em;
+    margin-top: 50px;
+    margin-left: 30px;
+    position: absolute;
+    width: 380px;
+    height: 490px;
+    background-color: #fff;
+}
+.kart2 {
+    border-radius: 2em;
+    margin-top: 50px;
+    margin-left: 450px;
+    position: absolute;
+    width: 380px;
+    height: 490px;
+    background-color: #fff;
+}
+.kart3 {
+    border-radius: 2em;
+    margin-top: 50px;
+    margin-left: 870px;
+    position: absolute;
+    width: 380px;
+    height: 490px;
+    background-color: #fff;
+}
+.kart4 {
+    margin-top: 580px;
+    border-radius: 2em;
+    margin-left: 30px;
+    position: absolute;
+    width: 380px;
+    height: 490px;
+    background-color: #fff;
+}
+.kart5 {
+    margin-top: 580px;
+    border-radius: 2em;
+    margin-left: 450px;
+    position: absolute;
+    width: 380px;
+    height: 490px;
+    background-color: #fff;
+}
+.kart6 {
+    margin-top: 580px;
+    border-radius: 2em;
+    margin-left: 870px;
+    position: absolute;
+    width: 380px;
+    height: 490px;
+    background-color: #fff;
+}
+.img1TXY6 {
+    border-radius: 1em;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.h1textkart1 {
+    text-align: center;
+    font-size: 18px;
+}
+.ptextkart1 {
+    margin-left: 25px;
+    text-align: center;
+    width: 300px;
+}
+.h1textkart2 {
+    text-align: center;
+    font-size: 18px;
+}
+.ptextkart2 {
+    margin-left: 40px;
+    text-align: center;
+    width: 300px;
+}
+.h1textkart3 {
+    text-align: center;
+    font-size: 18px;
+}
+.ptextkart3 {
+    margin-left: 40px;
+    text-align: center;
+    width: 300px;
+}
+.h1textkart4 {
+    text-align: center;
+    font-size: 18px;
+}
+.ptextkart4 {
+    margin-left: 40px;
+    text-align: center;
+    width: 300px;
+}
+.h1textkart5 {
+    text-align: center;
+    font-size: 18px;
+}
+.ptextkart5 {
+    margin-left: 40px;
+    text-align: center;
+    width: 300px;
+}
+.h1textkart6 {
+    text-align: center;
+    font-size: 18px;
+}
+.ptextkart6 {
+    margin-left: 40px;
+    text-align: center;
+    width: 300px;
+}
+p {
+    font-size: 20px;
+}
+.img-paralax {
+    margin-top: 1300px;
+    width: 2000px;
+    height: 700px;
+    margin-left: -18%;
+}
+.blockparalax {
+    font-size: 45px;
+}
+.blockp_paralax {
+    margin-left: 150px;
+    font-size: 23px;
+    width: 400px;
+    text-align: center;
+}
+.text_block_paralax { 
+    margin-left: 18%;
+    margin-top: -500px;
+    margin-left: 10;
+}
+.btnblock_paralax {
+    margin-left: 200px;
+    color: #fff;
+    background-color: coral;
+    font-size: 20px;
+    width: 300px;
+    height: 60px;
+    border: solid coral;
+    border-radius: 2em;
+}
+.text_block_rezume {
+    margin-top: 290px;
+    margin-left: 35%;
+}
+.text_h1_rezume {
+    font-size: 60px;
+}
+.text_p_rezume {
+    font-size: 23px;
+    margin-left: -26px;
+    margin-top: -15px;
+}
+.img_block_rezume1 {
+    width: 900px;
+    margin-left: 23%;
+    margin-top: 30px;
+}
+.img_block_rezume2 {
+    width: 450px;
+    margin-left: 437px;
+    margin-top: 10px;
+}
+.img_block_rezume3 {
+    width: 450px;
+}
